@@ -16,7 +16,12 @@ html{
     
 }
 
-
+button a{
+    width: auto;
+    height: 30px;
+    color: brown;
+    
+}
 
 #bod{
   
