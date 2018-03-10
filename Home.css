@@ -57,7 +57,7 @@ button a{
     
 }
 
-#Dimy a{
+#dimy a{
     text-decoration: none;
     font-size: 30px;
     color: antiquewhite;
@@ -66,7 +66,7 @@ button a{
     position: relative;  
     top: -10px;
 }
-#Dimy{
+#dimy{
     width: 300px;
 }
 
