@@ -5,7 +5,7 @@
 
 body {
 	color: #666666;
-	background-color: #ffffff;
+	background-color: #abc;
 	background-image: url('../images/SomeBackgroundImage.jpg');
 	background-attachment: fixed;
 	font-family: 'Roboto', sans-serif;
@@ -66,6 +66,7 @@ a:hover {
 img {
 	margin: 2%;
 	width: auto;
+   
 }
 
 section {
@@ -89,6 +90,7 @@ nav {
 	width:100%;
 	padding: 2% 0;
 	border-bottom: 1px solid #CCC;
+    color: blue;
 }
 
 nav img {
@@ -112,11 +114,13 @@ nav a:hover {
 	/*padding: 2em;*/
 	border-bottom: 1px solid #CCC;
 	clear: both;
+    
 }
 
 #projects img {
 	width: 30%;
 	margin: 1%;
+    
 }
 
 .border {
