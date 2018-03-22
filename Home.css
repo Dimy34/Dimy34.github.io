@@ -1,0 +1,141 @@
+
+   @import url('https://fonts.googleapis.com/css?family=Roboto:100,400,700');
+@import url('https://fonts.googleapis.com/css?family=Lora');
+* { margin:0; padding:0; box-sizing:border-box; }
+ 
+   
+body{
+   
+	color: #666666;
+	background-color: #666666;
+	background-image: url('../images/SomeBackgroundImage.jpg');
+	background-attachment: fixed;
+	font-family: 'Roboto', sans-serif;
+	font-size: 18px;
+	text-align:center;
+    border: solid black 10px;
+}
+}
+
+html{
+    margin: 0 auto;
+    padding: 0;
+}
+#header{
+   
+    margin: -8px -8px;
+     background-image: url("images%20back.jpg");
+    
+}
+
+button a{
+    width: auto;
+    height: 30px;
+    color: brown;
+    
+}
+video{
+    border: solid gray 6px;
+    width: 400px;
+    height: 300px;
+    position: relative;
+   
+    
+}
+
+
+#bod{
+  
+    padding: 10px 5px;
+    background-color: white;
+    border-radius: 0 1em 0 1em;
+    background-image: url(Lighthouse.jpg);
+
+}
+.container_header{
+    display: flex;
+    position: relative;
+    background-color: blue;
+    width: 80%;
+    margin: 0 auto;
+    background-image: url("images%20back.jpg");
+
+}
+#video{
+    color: cornflowerblue;
+    margin-top: 1em;
+}
+
+}
+.container_footer{
+    display: flex;
+    position: relative;
+    background-color: darkslateblue;
+    width: 80%;
+    height: 20px
+    margin: 0 auto;
+  
+   
+}
+#footer{
+    background-color: black;
+    margin: -8px -8px;
+   
+   
+    
+    
+}
+
+#dimy a{
+    text-decoration: none;
+    font-size: 30px;
+    color: antiquewhite;
+    font-family: Arial;
+    margin: 0;
+    position: relative;  
+    top: -1px;
+}
+#dimy{
+    width: 300px;
+}
+
+#Dim{
+    color: aqua;
+    font-family: cursive;
+    margin: 0 10px;
+    position: absolute;
+    bottom: 5px;
+    
+}
+#ul li{
+    color: rebeccapurple;
+    display: inline-block;
+}
+#nav{
+    text-align: right;
+    width: 400px;
+    height: 100px;
+    margin-bottom: 10px;
+    }
+
+
+#ul{
+    position: absolute;
+    bottom: -1px;
+}
+#ul li a{
+    text-decoration: none;
+    color: antiquewhite;
+    font-family: cursive;
+    text-transform: uppercase;
+    padding: 10px 5px;
+    background-color: brown;
+    border-radius: 0 1em 0 1em;
+}
+.container{
+    background-color: burlywood;
+    width: 80%;
+    margin: -18px auto;
+    padding-bottom: 10px;
+    
+}
